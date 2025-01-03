@@ -69,7 +69,7 @@ src/
 │   └── twitter.rs     # Twitter updates
 └── core/
     ├── agent.rs       # Main agent logic
-    └── types.rs       # Common types
+    └── types.rs       # Common types```
 
 ## System Requirements
 

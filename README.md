@@ -7,7 +7,8 @@
 
 ## Overview
 
-Coral is an automated trading system built on the Solana blockchain, designed for professional token analysis, trade execution, and asset management. Leveraging Rust for high performance and security, Coral provides a comprehensive suite of trading tools and capabilities.We have an official token $CORAL. The Only CA is:
+Coral is an automated trading system built on the Solana blockchain, designed for professional token analysis, trade execution, and asset management. Leveraging Rust for high performance and security, Coral provides a comprehensive suite of trading tools and capabilities.We have an official token $CORAL. 
+The Only CA is:
 
 ### Key Features
 
